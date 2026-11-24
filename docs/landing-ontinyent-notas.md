@@ -15,7 +15,7 @@ Archivo: `programacion-diseno-web-ecommerce-ontinyent.html` (borrador listo, pen
 - Coordenadas GPS exactas del local (puse aproximadas del centro de Ontinyent).
 - Teléfono principal para el schema (puse 96 191 12 30; en la web también aparece 626 18 41 44).
 - Que el proyecto FRANCES y NEW MOP se describan como "web" y no como tienda.
-- Nombre y cargo de la persona responsable, para añadir autoría (EEAT). Hoy la web no muestra ningún nombre.
+- ~~Nombre y cargo~~: Jose Antonio Donat Fombuena, Front-end Design and Development (añadido).
 - Perfiles reales para `sameAs` (Google Business Profile, LinkedIn, Instagram, Facebook): en la web actual apuntan a "#".
 - La web actual tiene bloques con "Lorem ipsum" en el portfolio: conviene limpiarlos, restan confianza.
 
